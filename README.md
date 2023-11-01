@@ -1,2 +1,2 @@
 # python-lessons
-Ushbu repasitoryda pythin darslari jamlangan
+Ushbu repasitoryda python darslari jamlangan
